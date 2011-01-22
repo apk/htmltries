@@ -1,0 +1,8 @@
+This is my input file.
+No structure in it yet.
+(But may contain html?)
+<pre>
+int main () {
+  printf ("Hello, World\n");
+}
+</pre>
